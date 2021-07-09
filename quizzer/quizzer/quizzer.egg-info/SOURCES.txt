@@ -1,0 +1,8 @@
+setup.py
+quizzer/__init__.py
+quizzer/c2qf.py
+quizzer/quizz.py
+quizzer.egg-info/PKG-INFO
+quizzer.egg-info/SOURCES.txt
+quizzer.egg-info/dependency_links.txt
+quizzer.egg-info/top_level.txt
